@@ -1,0 +1,1 @@
+/home/swarmie/RMC/devel/.private/rosserial_arduino/lib/pkgconfig/rosserial_arduino.pc

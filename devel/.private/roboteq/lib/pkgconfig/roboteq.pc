@@ -1,0 +1,8 @@
+prefix=/home/swarmie/RMC/devel/.private/roboteq
+
+Name: roboteq
+Description: Description of roboteq
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/swarmie/RMC/devel/.private/roboteq/lib 
+Requires: 

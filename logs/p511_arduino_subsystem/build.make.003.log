@@ -1,0 +1,17 @@
+[  0%] Built target rosserial_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[100%] Built target p511_arduino_subsystem_ros_lib
+CMake Error at /home/swarmie/RMC/src/rosserial/rosserial_arduino/arduino-cmake/cmake/ArduinoToolchain.cmake:81 (message):
+  Could not find Arduino SDK (set ARDUINO_SDK_PATH)!
+Call Stack (most recent call first):
+  /usr/share/cmake-3.5/Modules/CMakeDetermineSystem.cmake:98 (include)
+  CMakeLists.txt
+
+
+-- Configuring incomplete, errors occurred!
+CMakeFiles/p511_arduino_subsystem_firmware.dir/build.make:57: recipe for target 'CMakeFiles/p511_arduino_subsystem_firmware' failed
+make[2]: *** [CMakeFiles/p511_arduino_subsystem_firmware] Error 1
+CMakeFiles/Makefile2:809: recipe for target 'CMakeFiles/p511_arduino_subsystem_firmware.dir/all' failed
+Makefile:138: recipe for target 'all' failed
+make[1]: *** [CMakeFiles/p511_arduino_subsystem_firmware.dir/all] Error 2
+make: *** [all] Error 2

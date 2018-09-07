@@ -1,0 +1,8 @@
+prefix=/home/swarmie/RMC/install
+
+Name: p511_arduino_subsystem
+Description: Description of p511_arduino_subsystem
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/swarmie/RMC/install/lib 
+Requires: 

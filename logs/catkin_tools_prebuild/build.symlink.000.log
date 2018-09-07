@@ -1,0 +1,8 @@
+Symlinking /home/swarmie/RMC/devel/./setup.sh
+Symlinking /home/swarmie/RMC/devel/./_setup_util.py
+Symlinking /home/swarmie/RMC/devel/./setup.zsh
+Symlinking /home/swarmie/RMC/devel/./env.sh
+Symlinking /home/swarmie/RMC/devel/./setup.bash
+Symlinking /home/swarmie/RMC/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/swarmie/RMC/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/swarmie/RMC/devel/lib/pkgconfig/catkin_tools_prebuild.pc

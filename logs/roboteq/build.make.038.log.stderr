@@ -1,0 +1,6 @@
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:17:12:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+   ros::init("talker");
+[01;32m[K            ^[m[K
+make[2]: *** [CMakeFiles/roboteq_example.dir/src/sample.cpp.o] Error 1
+make[1]: *** [CMakeFiles/roboteq_example.dir/all] Error 2
+make: *** [all] Error 2

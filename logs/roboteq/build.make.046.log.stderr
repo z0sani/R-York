@@ -1,0 +1,16 @@
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:134:2:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K/[m[K’ token
+ */
+[01;32m[K  ^[m[K
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:134:2:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K/[m[K’ token
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:137:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kwhile[m[K’
+   while(ros::ok()){
+[01;32m[K   ^[m[K
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:140:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kreturn[m[K’
+   return 0;
+[01;32m[K   ^[m[K
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:141:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+ }
+[01;32m[K ^[m[K
+make[2]: *** [CMakeFiles/roboteq_example.dir/src/sample.cpp.o] Error 1
+make[1]: *** [CMakeFiles/roboteq_example.dir/all] Error 2
+make: *** [all] Error 2

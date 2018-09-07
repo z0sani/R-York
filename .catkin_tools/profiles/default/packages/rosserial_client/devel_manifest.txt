@@ -1,0 +1,5 @@
+rosserial/rosserial_client
+/home/swarmie/RMC/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake /home/swarmie/RMC/devel/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake
+/home/swarmie/RMC/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig.cmake /home/swarmie/RMC/devel/share/rosserial_client/cmake/rosserial_clientConfig.cmake
+/home/swarmie/RMC/devel/.private/rosserial_client/lib/pkgconfig/rosserial_client.pc /home/swarmie/RMC/devel/lib/pkgconfig/rosserial_client.pc
+/home/swarmie/RMC/devel/.private/rosserial_client/lib/python2.7/dist-packages/rosserial_client/__init__.py /home/swarmie/RMC/devel/lib/python2.7/dist-packages/rosserial_client/__init__.py

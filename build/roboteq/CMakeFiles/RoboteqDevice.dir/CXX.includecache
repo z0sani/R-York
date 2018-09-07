@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swarmie/RMC/src/roboteq/include/RoboteqDevice/ErrorCodes.h
+
+/home/swarmie/RMC/src/roboteq/include/RoboteqDevice/RoboteqDevice.h
+string
+-
+
+/home/swarmie/RMC/src/roboteq/src/RoboteqDevice.cpp
+iostream
+-
+stdio.h
+-
+string
+-
+fcntl.h
+-
+errno.h
+-
+termios.h
+-
+time.h
+-
+sstream
+-
+unistd.h
+-
+RoboteqDevice/RoboteqDevice.h
+-
+RoboteqDevice/ErrorCodes.h
+-
+

@@ -1,0 +1,4 @@
+[ 50%] Built target RoboteqDevice
+[ 75%] [32mBuilding CXX object CMakeFiles/roboteq_example.dir/src/sample.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/swarmie/RMC/devel/.private/roboteq/lib/roboteq/roboteq_example[0m
+[100%] Built target roboteq_example

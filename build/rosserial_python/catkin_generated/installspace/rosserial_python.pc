@@ -1,0 +1,8 @@
+prefix=/home/swarmie/RMC/install
+
+Name: rosserial_python
+Description: Description of rosserial_python
+Version: 0.7.7
+Cflags: 
+Libs: -L/home/swarmie/RMC/install/lib 
+Requires: 

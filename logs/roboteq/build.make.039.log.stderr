@@ -1,0 +1,32 @@
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:[m[K In function ‘[01m[Kvoid cb(sensor_msgs::Joy)[m[K’:
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:23:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kz[m[K’ was not declared in this scope
+   ros::Publisher pub = z.advertise<std_msgs::Int16>("/front_right",10);
+[01;32m[K                        ^[m[K
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:23:51:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+   ros::Publisher pub = z.advertise<std_msgs::Int16>("/front_right",10);
+[01;32m[K                                                   ^[m[K
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:99:21:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kinit(const char [7])[m[K’
+   ros::init("talker");
+[01;32m[K                     ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/ros/node_handle.h:46:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:5[m[K:
+[01m[K/opt/ros/kinetic/include/ros/init.h:83:18:[m[K [01;36m[Knote: [m[Kcandidate: void ros::init(int&, char**, const string&, uint32_t)
+ ROSCPP_DECL void init(int &argc, char **argv, const std::string& name, uint32_t options = 0);
+[01;32m[K                  ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/init.h:83:18:[m[K [01;36m[Knote: [m[K  candidate expects 4 arguments, 1 provided
+In file included from [01m[K/opt/ros/kinetic/include/ros/node_handle.h:46:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:5[m[K:
+[01m[K/opt/ros/kinetic/include/ros/init.h:93:18:[m[K [01;36m[Knote: [m[Kcandidate: void ros::init(const M_string&, const string&, uint32_t)
+ ROSCPP_DECL void init(const M_string& remappings, const std::string& name, uint32_t options = 0);
+[01;32m[K                  ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/init.h:93:18:[m[K [01;36m[Knote: [m[K  candidate expects 3 arguments, 1 provided
+[01m[K/opt/ros/kinetic/include/ros/init.h:103:18:[m[K [01;36m[Knote: [m[Kcandidate: void ros::init(const VP_string&, const string&, uint32_t)
+ ROSCPP_DECL void init(const VP_string& remapping_args, const std::string& name, uint32_t options = 0);
+[01;32m[K                  ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/init.h:103:18:[m[K [01;36m[Knote: [m[K  candidate expects 3 arguments, 1 provided
+make[2]: *** [CMakeFiles/roboteq_example.dir/src/sample.cpp.o] Error 1
+make[1]: *** [CMakeFiles/roboteq_example.dir/all] Error 2
+make: *** [all] Error 2

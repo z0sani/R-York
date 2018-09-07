@@ -1,0 +1,7 @@
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/swarmie/RMC/src/roboteq/src/sample.cpp:135:1:[m[K [01;31m[Kerror: [m[K‘[01m[Kpub[m[K’ was not declared in this scope
+ pub = z.advertise<std_msgs::Int16>("/front_right",10);
+[01;32m[K ^[m[K
+make[2]: *** [CMakeFiles/roboteq_example.dir/src/sample.cpp.o] Error 1
+make[1]: *** [CMakeFiles/roboteq_example.dir/all] Error 2
+make: *** [all] Error 2

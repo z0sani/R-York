@@ -1,0 +1,4 @@
+Symlinking /home/swarmie/RMC/devel/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake
+Symlinking /home/swarmie/RMC/devel/share/rosserial_client/cmake/rosserial_clientConfig.cmake
+Symlinking /home/swarmie/RMC/devel/lib/pkgconfig/rosserial_client.pc
+Symlinking /home/swarmie/RMC/devel/lib/python2.7/dist-packages/rosserial_client/__init__.py

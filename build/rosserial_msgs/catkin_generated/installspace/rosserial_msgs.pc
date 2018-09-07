@@ -1,0 +1,8 @@
+prefix=/home/swarmie/RMC/install
+
+Name: rosserial_msgs
+Description: Description of rosserial_msgs
+Version: 0.7.7
+Cflags: -I/home/swarmie/RMC/install/include
+Libs: -L/home/swarmie/RMC/install/lib 
+Requires: message_runtime

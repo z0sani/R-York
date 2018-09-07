@@ -1,0 +1,1 @@
+/home/swarmie/RMC/devel/.private/rosserial_arduino/lib/python2.7/dist-packages/rosserial_arduino/msg/__init__.py

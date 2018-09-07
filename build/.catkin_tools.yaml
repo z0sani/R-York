@@ -1,0 +1,6 @@
+devel_space: /home/swarmie/RMC/devel
+install: false
+install_space: /home/swarmie/RMC/install
+profile: default
+source_space: /home/swarmie/RMC/src
+workspace: /home/swarmie/RMC

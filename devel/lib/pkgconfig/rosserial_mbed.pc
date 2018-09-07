@@ -1,0 +1,1 @@
+/home/swarmie/RMC/devel/.private/rosserial_mbed/lib/pkgconfig/rosserial_mbed.pc

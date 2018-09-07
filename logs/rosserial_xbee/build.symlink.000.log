@@ -1,0 +1,5 @@
+Symlinking /home/swarmie/RMC/devel/share/rosserial_xbee/cmake/rosserial_xbeeConfig.cmake
+Symlinking /home/swarmie/RMC/devel/share/rosserial_xbee/cmake/rosserial_xbeeConfig-version.cmake
+Symlinking /home/swarmie/RMC/devel/lib/pkgconfig/rosserial_xbee.pc
+Symlinking /home/swarmie/RMC/devel/lib/python2.7/dist-packages/xbee/__init__.py
+Symlinking /home/swarmie/RMC/devel/lib/python2.7/dist-packages/rosserial_xbee/__init__.py

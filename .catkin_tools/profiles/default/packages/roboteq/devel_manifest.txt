@@ -1,0 +1,6 @@
+roboteq
+/home/swarmie/RMC/devel/.private/roboteq/share/roboteq/cmake/roboteqConfig-version.cmake /home/swarmie/RMC/devel/share/roboteq/cmake/roboteqConfig-version.cmake
+/home/swarmie/RMC/devel/.private/roboteq/share/roboteq/cmake/roboteqConfig.cmake /home/swarmie/RMC/devel/share/roboteq/cmake/roboteqConfig.cmake
+/home/swarmie/RMC/devel/.private/roboteq/lib/libRoboteqDevice.so /home/swarmie/RMC/devel/lib/libRoboteqDevice.so
+/home/swarmie/RMC/devel/.private/roboteq/lib/pkgconfig/roboteq.pc /home/swarmie/RMC/devel/lib/pkgconfig/roboteq.pc
+/home/swarmie/RMC/devel/.private/roboteq/lib/roboteq/roboteq_example /home/swarmie/RMC/devel/lib/roboteq/roboteq_example

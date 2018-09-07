@@ -1,0 +1,281 @@
+[35m[1mScanning dependencies of target rosserial_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target rosserial_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target p511_arduino_subsystem_ros_lib[0m
+[100%] [34m[1mGenerating ros_lib[0m
+
+Exporting to /home/swarmie/RMC/build/p511_arduino_subsystem
+Exporting actionlib
+
+  Messages:
+    TestRequestGoal,TwoIntsResult,TwoIntsAction,TwoIntsActionFeedback,TestGoal,TestRequestResult,TestActionFeedback,TestActionGoal,TestRequestAction,TestRequestActionFeedback,TestRequestActionResult,TestActionResult,TestAction,TwoIntsActionResult,TestRequestActionGoal,TwoIntsFeedback,TestResult,TwoIntsActionGoal,TestFeedback,TestRequestFeedback,TwoIntsGoal,
+
+Exporting actionlib_msgs
+
+  Messages:
+    GoalStatusArray,GoalStatus,GoalID,
+
+Exporting actionlib_tutorials
+
+  Messages:
+    FibonacciResult,AveragingResult,AveragingGoal,FibonacciGoal,FibonacciAction,FibonacciActionFeedback,FibonacciActionGoal,AveragingActionGoal,FibonacciActionResult,AveragingAction,AveragingFeedback,FibonacciFeedback,AveragingActionResult,AveragingActionFeedback,
+
+Exporting bond
+
+  Messages:
+    Status,Constants,
+
+Exporting control_msgs
+
+  Messages:
+    GripperCommandActionResult,SingleJointPositionActionGoal,PointHeadAction,JointTrajectoryGoal,PointHeadFeedback,PointHeadActionFeedback,JointTolerance,FollowJointTrajectoryActionFeedback,SingleJointPositionResult,GripperCommandGoal,PidState,JointTrajectoryActionGoal,JointTrajectoryFeedback,JointTrajectoryResult,SingleJointPositionAction,FollowJointTrajectoryActionGoal,FollowJointTrajectoryFeedback,FollowJointTrajectoryActionResult,PointHeadActionGoal,SingleJointPositionActionResult,JointTrajectoryActionResult,JointTrajectoryActionFeedback,SingleJointPositionActionFeedback,FollowJointTrajectoryResult,SingleJointPositionGoal,GripperCommandFeedback,GripperCommandResult,JointTrajectoryControllerState,FollowJointTrajectoryAction,JointControllerState,GripperCommandActionFeedback,JointTrajectoryAction,GripperCommandAction,GripperCommand,FollowJointTrajectoryGoal,GripperCommandActionGoal,PointHeadResult,PointHeadActionResult,PointHeadGoal,SingleJointPositionFeedback,
+
+  Services:
+    QueryCalibrationState,QueryTrajectoryState,
+
+Exporting diagnostic_msgs
+
+  Messages:
+    DiagnosticArray,DiagnosticStatus,KeyValue,
+
+  Services:
+    AddDiagnostics,SelfTest,
+
+Exporting dynamic_reconfigure
+
+  Messages:
+    BoolParameter,ParamDescription,GroupState,StrParameter,Config,Group,ConfigDescription,IntParameter,SensorLevels,DoubleParameter,
+
+  Services:
+    Reconfigure,
+
+Exporting gazebo_msgs
+
+  Messages:
+    WorldState,ODEPhysics,LinkState,ModelStates,ContactsState,ODEJointProperties,ContactState,ModelState,LinkStates,
+
+  Services:
+    BodyRequest,SetModelConfiguration,GetLightProperties,GetWorldProperties,GetModelProperties,ApplyJointEffort,SetLinkState,JointRequest,SetJointProperties,SetLightProperties,GetModelState,SetModelState,SetJointTrajectory,GetPhysicsProperties,DeleteLight,SetLinkProperties,GetLinkState,SetPhysicsProperties,GetLinkProperties,SpawnModel,GetJointProperties,ApplyBodyWrench,DeleteModel,
+
+Exporting geographic_msgs
+
+  Messages:
+    GeographicMapChanges,RouteNetwork,RoutePath,WayPoint,GeoPath,GeoPoint,GeoPointStamped,GeoPose,GeographicMap,KeyValue,BoundingBox,RouteSegment,GeoPoseStamped,MapFeature,
+
+  Services:
+    GetGeoPath,GetGeographicMap,UpdateGeographicMap,GetRoutePlan,
+
+Exporting geometry_msgs
+
+  Messages:
+    Accel,TransformStamped,Inertia,PolygonStamped,PoseArray,Pose,WrenchStamped,Polygon,TwistWithCovarianceStamped,TwistWithCovariance,Twist,Wrench,PointStamped,TwistStamped,InertiaStamped,AccelWithCovarianceStamped,Pose2D,Transform,Quaternion,PoseStamped,Vector3Stamped,AccelStamped,AccelWithCovariance,PoseWithCovariance,Point,Vector3,PoseWithCovarianceStamped,QuaternionStamped,Point32,
+
+Exporting hector_gazebo_plugins
+
+  Services:
+    SetBias,
+
+Exporting laser_assembler
+
+  Services:
+    AssembleScans,AssembleScans2,
+
+Exporting map_msgs
+
+  Messages:
+    PointCloud2Update,ProjectedMapInfo,ProjectedMap,OccupancyGridUpdate,
+
+  Services:
+    GetPointMap,GetPointMapROI,SaveMap,SetMapProjections,GetMapROI,ProjectedMapsInfo,
+
+Exporting nav_msgs
+
+  Messages:
+    GetMapActionGoal,Path,GetMapFeedback,MapMetaData,Odometry,GetMapGoal,GetMapActionFeedback,GetMapActionResult,GridCells,GetMapAction,GetMapResult,OccupancyGrid,
+
+  Services:
+    GetMap,GetPlan,SetMap,
+
+Exporting nodelet
+
+  Services:
+    NodeletUnload,NodeletList,NodeletLoad,
+
+Exporting pcl_msgs
+
+  Messages:
+    Vertices,PolygonMesh,ModelCoefficients,PointIndices,
+
+Exporting polled_camera
+
+  Services:
+    GetPolledImage,
+
+Exporting robot_localization
+
+  Services:
+    SetDatum,SetPose,
+
+Exporting roscpp
+
+  Messages:
+    Logger,
+
+  Services:
+    SetLoggerLevel,GetLoggers,Empty,
+
+Exporting roscpp_tutorials
+
+  Services:
+    TwoInts,
+
+Exporting rosgraph_msgs
+
+  Messages:
+    TopicStatistics,Clock,Log,
+
+Exporting rospy_tutorials
+
+  Messages:
+    Floats,HeaderString,
+
+  Services:
+    AddTwoInts,BadTwoInts,
+
+Exporting rosserial_arduino
+
+  Messages:
+    Adc,
+
+  Services:
+    Test,
+
+Exporting rosserial_mbed
+
+  Messages:
+    Adc,
+
+  Services:
+    Test,
+
+Exporting rosserial_msgs
+
+  Messages:
+    Log,TopicInfo,
+
+  Services:
+    RequestServiceInfo,RequestMessageInfo,RequestParam,
+
+Exporting sensor_msgs
+
+  Messages:
+    LaserScan,Imu,RelativeHumidity,JoyFeedbackArray,Temperature,MultiEchoLaserScan,Illuminance,JointState,CompressedImage,MultiDOFJointState,Image,ChannelFloat32,BatteryState,MagneticField,FluidPressure,PointCloud2,JoyFeedback,TimeReference,NavSatFix,Range,NavSatStatus,Joy,PointField,PointCloud,RegionOfInterest,CameraInfo,LaserEcho,
+
+  Services:
+    SetCameraInfo,
+
+Exporting shape_msgs
+
+  Messages:
+    SolidPrimitive,MeshTriangle,Plane,Mesh,
+
+Exporting smach_msgs
+
+  Messages:
+    SmachContainerStructure,SmachContainerInitialStatusCmd,SmachContainerStatus,
+
+Exporting std_msgs
+
+  Messages:
+    Empty,UInt64MultiArray,Int16,Duration,UInt8MultiArray,String,Float32MultiArray,ByteMultiArray,Int64,UInt16,Time,Bool,UInt16MultiArray,ColorRGBA,Int32,Float64MultiArray,Byte,Float32,MultiArrayLayout,UInt64,Int64MultiArray,Int32MultiArray,MultiArrayDimension,UInt8,UInt32,Char,Float64,Int16MultiArray,Int8MultiArray,UInt32MultiArray,Header,Int8,
+
+Exporting std_srvs
+
+  Services:
+    Trigger,SetBool,Empty,
+
+Exporting stereo_msgs
+
+  Messages:
+    DisparityImage,
+
+Exporting tf
+
+  Messages:
+    tfMessage,
+
+  Services:
+    FrameGraph,
+
+Exporting tf2_msgs
+
+  Messages:
+    TFMessage,LookupTransformActionFeedback,TF2Error,LookupTransformGoal,LookupTransformFeedback,LookupTransformActionResult,LookupTransformActionGoal,LookupTransformResult,LookupTransformAction,
+
+  Services:
+    FrameGraph,
+
+Exporting theora_image_transport
+
+  Messages:
+    Packet,
+
+Exporting topic_tools
+
+  Services:
+    MuxDelete,DemuxSelect,DemuxAdd,DemuxList,MuxAdd,MuxList,DemuxDelete,MuxSelect,
+
+Exporting trajectory_msgs
+
+  Messages:
+    JointTrajectoryPoint,MultiDOFJointTrajectory,MultiDOFJointTrajectoryPoint,JointTrajectory,
+
+Exporting turtle_actionlib
+
+  Messages:
+    ShapeFeedback,ShapeAction,ShapeActionFeedback,Velocity,ShapeActionResult,ShapeGoal,ShapeActionGoal,ShapeResult,
+
+Exporting turtlesim
+
+  Messages:
+    Pose,Color,
+
+  Services:
+    TeleportRelative,SetPen,TeleportAbsolute,Kill,Spawn,
+
+Exporting uuid_msgs
+
+  Messages:
+    UniqueID,
+
+Exporting visualization_msgs
+
+  Messages:
+    InteractiveMarkerPose,InteractiveMarkerControl,Marker,ImageMarker,InteractiveMarkerInit,InteractiveMarker,InteractiveMarkerUpdate,MenuEntry,MarkerArray,InteractiveMarkerFeedback,
+
+Exporting wiimote
+
+  Messages:
+    TimedSwitch,IrSourceInfo,State,
+
+
+
+
+
+[100%] Built target p511_arduino_subsystem_ros_lib
+[35m[1mScanning dependencies of target p511_arduino_subsystem_firmware[0m
+CMake Error at /home/swarmie/RMC/src/rosserial/rosserial_arduino/arduino-cmake/cmake/ArduinoToolchain.cmake:81 (message):
+  Could not find Arduino SDK (set ARDUINO_SDK_PATH)!
+Call Stack (most recent call first):
+  /usr/share/cmake-3.5/Modules/CMakeDetermineSystem.cmake:98 (include)
+  CMakeLists.txt
+
+
+-- Configuring incomplete, errors occurred!
+CMakeFiles/p511_arduino_subsystem_firmware.dir/build.make:57: recipe for target 'CMakeFiles/p511_arduino_subsystem_firmware' failed
+make[2]: *** [CMakeFiles/p511_arduino_subsystem_firmware] Error 1
+CMakeFiles/Makefile2:809: recipe for target 'CMakeFiles/p511_arduino_subsystem_firmware.dir/all' failed
+make[1]: *** [CMakeFiles/p511_arduino_subsystem_firmware.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2
